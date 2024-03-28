@@ -7,7 +7,7 @@ Eu sou Thiago Girotto, sou Programador FrontEnd, atualmente estou aprendendo e c
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 <br>
-<br>
+
 
 <h3>Conecte-se comigo:</h3>
 
@@ -17,3 +17,15 @@ Eu sou Thiago Girotto, sou Programador FrontEnd, atualmente estou aprendendo e c
 <a href="https://www.instagram.com/thiagofernandesgirotto/">
 <img align="left" src="https://www.pinclipart.com/picdir/big/119-1198369_instagram-2016-logo-svg-vector-amp-png-transparent.png" alt="instagram-logo" width= 50px />
 </a>
+<br>
+<br>
+<br>
+<br>
+
+
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=thiagogirotto85)](https://github.com/thiagogirotto85/github-readme-stats)
+<br>
+<br>
+<br>
+
+![Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogirotto85&hide_progress=true)
